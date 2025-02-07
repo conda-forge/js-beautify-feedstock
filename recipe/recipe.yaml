@@ -1,5 +1,5 @@
 context:
-  version: 1.15.1
+  version: "1.15.2"
 
 package:
   name: js-beautify
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/js-beautify/-/js-beautify-${{ version }}.tgz
-  sha256: b840f39d9e8c41a54909f299e1850c254ed33cdefc2d983726ee1f607506a36b
+  sha256: 268e43dbfcaa8056ae6947fa1085a4a354867cfb3ae170f875b3b5897fde2a73
 
 build:
   number: 0
